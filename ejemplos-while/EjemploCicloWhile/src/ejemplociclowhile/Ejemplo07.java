@@ -47,6 +47,13 @@ public class Ejemplo07 {
 
         promedio_final = suma_total / contador;
         System.out.printf("El promedio final es %.2f\n", promedio_final);
-
+        /* ´Primero while (bandera) no hay que condundirse por es igual a 
+        bandera==true
+        Segundo  se aumenta la variable contador= contador + 1 que en este 
+        caso lo utilizaria para saber cuantas veces ingrese y para la dividir 
+         y asi obtener el promedio al dividir por si mismo y tambien se lo 
+        podria tomar como un separador a la salida del proceso del ciclo 
+        */
+        
     }
 }
