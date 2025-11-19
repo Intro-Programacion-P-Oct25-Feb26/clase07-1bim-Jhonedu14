@@ -20,7 +20,7 @@ public class Ejemplo02 {
         entrada.useLocale(Locale.US);
         int limite;
         int contador = 1;
-        System.out.println("Ingrese el Límite");
+        System.out.println("Ingrese el Límite");  //6
         limite = entrada.nextInt(); 
         while (contador <= limite){
             
@@ -34,3 +34,9 @@ public class Ejemplo02 {
         
     }
 }
+/*
+Primero te pide ingresar el limete, segundo el codigo explica contador que esta
+mostrando el mod y solo se aplica con numeros que tienen residuos como son los
+impares
+
+*/
