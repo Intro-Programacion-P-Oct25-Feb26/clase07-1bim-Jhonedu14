@@ -35,8 +35,7 @@ public class Ejemplo02 {
     }
 }
 /*
-Primero te pide ingresar el limete, segundo el codigo explica contador que esta
-mostrando el mod y solo se aplica con numeros que tienen residuos como son los
-impares
-
+Primero te pide ingresar el limete, segundo el codigo explica contador esta 
+una operacion con el mod y esto sale su residuo en el cual si es que contiene 
+residuo se muestra en pantalla y hasta llegar a la condicon que sea falsa 
 */
